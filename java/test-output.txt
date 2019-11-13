@@ -1,0 +1,39 @@
+String: 00000000
+Status: valid
+decimal value: 0
+
+String: 11111111
+Status: valid
+decimal value: 255
+
+String: 00000001
+Status: valid
+decimal value: 1
+
+String: 00000100
+Status: valid
+decimal value: 4
+
+String: 11000101
+Status: valid
+decimal value: 197
+
+String: 10000000
+Status: valid
+decimal value: 128
+
+String: 1010
+Status: invalid
+
+String: 123
+Status: invalid
+
+String: 98765432
+Status: invalid
+
+String: 110011001
+Status: invalid
+
+String: 000999333
+Status: invalid
+
